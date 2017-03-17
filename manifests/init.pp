@@ -23,7 +23,9 @@ class selenium(
   validate_string($install_root)
   validate_string($java)
   validate_string($version)
-  validate_string($url)
+  if ( $url != undef ){
+    validate_string($url)
+  }
   validate_string($download_timeout)
   validate_bool($nocheckcertificate)
   validate_bool($manage_logrotate)
