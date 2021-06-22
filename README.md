@@ -1,7 +1,7 @@
 Puppet selenium Module
 ======================
 
-[![Build Status](https://travis-ci.org/jhoblitt/puppet-selenium.png)](https://travis-ci.org/jhoblitt/puppet-selenium)
+[![Build Status](https://travis-ci.org/theasci/puppet-selenium.png)](https://travis-ci.org/theasci/puppet-selenium)
 
 #### Table of Contents
 
